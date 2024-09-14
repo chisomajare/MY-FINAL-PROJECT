@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Nerko+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 4rem;
+    box-sizing: 0;
+  }
+  
+  body {
+    background-color:  darkseagreen;
+  }
+
+  /*styling the container*/
+
+  .container {
+    background-color: azure;
+    border: 5px;
+  }
+
+/*styling the headings*/
+  .headings{
+    font-family: "Nerko One", cursive;
+    font-size: 4rem;
+        
+  }
+  .paragraph {
+    font-family: "Caveat", cursive;
+    font-size: 1.5rem;
+  }
+
+    
